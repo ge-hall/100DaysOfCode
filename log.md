@@ -33,7 +33,7 @@ Glad to have worked throguh this problem and learnt the fundamental of regular e
 
 **Link to work:** 
 [Git Repo for publishing work](https://github.com/ge-hall/100DaysOfCode/new/master)
-[RegExp Pattern Matching Problem] (https://github.com/ge-hall/100DaysOfCode/tree/master/RegExp)
+[RegExp Pattern Matching Problem](https://github.com/ge-hall/100DaysOfCode/tree/master/RegExp)
 
 
 ### Day 0: September 24, 2018
