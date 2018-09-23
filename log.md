@@ -39,18 +39,18 @@ Glad to have worked throguh this problem and learnt the fundamental of regular e
 ### Day 0: September 24, 2018
 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Did bla and foo and bar for the app.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Will think about this when the day comes.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Dummy](http://www.example.com)
 
 
 ### Day 1: September 25, 2018
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Probably going to have a plan by Tuesday.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I have a large project. I need ot think in sprints. Many say 1 week sprints are too short but on my projects the priorities can shift and the status becomes unclear within 1 week. Time for planning. Retrospectives can happen every couple of sprints.
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
