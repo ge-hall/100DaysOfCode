@@ -44,7 +44,13 @@ Glad to have worked throguh this problem and learnt the fundamental of regular e
 **Thoughts**: Have not looked at Watsn at all. First impressions, works with unstructured data = less work to get information out. Works with less data = how can we have best of all worlds.
 * Watched intro vid
 * Signed up to Watson
-
+* Many services to explore, Knowledge Catalog, Knowledge Studi, Language Translator, Machine Learning
+* Exploring Natural Language Understanding
+* Ran an example API call via cURL. 
+* Confirmed as working AOK. 
+* 3AM time for sleep.
+At work we are developing a Survey Tool. Natural Language Understanding could assist with sentiment analysis and allow greater value extraction from survery responses.
+Free account does not allow me ot use local region. Have to use US South. Actually after trying all options, the default resource group for Sydney became available.
 
 **Link(s) to work**: [Dummy](http://www.example.com)
 
