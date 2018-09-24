@@ -11,9 +11,12 @@ and working through many different new prolems should help with this journey.
 ### Day 0: September 24, 2018
 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Explore IBM Watson.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Have not looked at Watsn at all. First impressions, works with unstructured data = less work to get information out. Works with less data = how can we have best of all worlds.
+* Watched intro vid
+* Signed up to Watson
+
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
