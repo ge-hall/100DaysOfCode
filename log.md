@@ -57,9 +57,9 @@ Free account does not allow me ot use local region. Have to use US South. Actual
 
 ### Day 1: September 25, 2018
 
-**Today's Progress**: Probably going to have a plan by Tuesday.
+**Today's Progress**: Layday today, Brisbane Trip early start late finish.
 
-**Thoughts** I have a large project. I need ot think in sprints. Many say 1 week sprints are too short but on my projects the priorities can shift and the status becomes unclear within 1 week. Time for planning. Retrospectives can happen every couple of sprints.
+**Thoughts**  Installed Mojave on main and secondary dev machines today.
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
