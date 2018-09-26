@@ -57,6 +57,7 @@ Free account does not allow me ot use local region. Have to use US South. Actual
 
 ### Day 1: September 25, 2018
 
+
 **Today's Progress**: Layday today, Brisbane Trip early start late finish.
 
 **Thoughts**  Installed Mojave on main and secondary dev machines today.
@@ -64,3 +65,16 @@ Free account does not allow me ot use local region. Have to use US South. Actual
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+### Day 2: September 26, 2018
+
+
+**Today's Progress**: Layday today Again, working toward UAT release which is killing my energy. Sleeping early and waking up at 2-3AM and doing research.
+
+Twitter discussion on React-app-reqired has me delving into create-react-app source. It is of great interest to me to explore how create-react-app works. From the core functionality of laying out projet boilerplate which I would like to do for my own project styles as I tend ot want to create a lot of small projects. I am getting very good at setting up new projects manually but I should have this high frequency work flow scripted.
+
+Also interested in delving deeper into webpack so here goes.
+
+**Thoughts**  Really got to do some coding.
+
+**Link(s) to work**
