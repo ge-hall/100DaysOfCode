@@ -75,6 +75,25 @@ Twitter discussion on React-app-reqired has me delving into create-react-app sou
 
 Also interested in delving deeper into webpack so here goes.
 
+* forked and cloned create-react-app
+* using yarn for first time
+* output a bit friendlier thatn npm IMO
+
+
+**Thoughts**  Really got to do some coding.
+
+**Link(s) to work**
+
+### Day 3: September 27, 2018
+
+
+**Today's Progress**: Yet another topic to explore. Looking at RedCap API. RedCap is a research capture tool. In summary, a survey tool which includes all the features requires for research projects that might be performed by a University.
+
+Today, I only got account access but to use the API playground or hit the api with some cURL posts, or use express is not yet possible as I had ot apply for an API key and the campus administrator needs to action this request.
+
+So tonight's time will be spent on watching videos and reading API docs.
+
+
 **Thoughts**  Really got to do some coding.
 
 **Link(s) to work**
