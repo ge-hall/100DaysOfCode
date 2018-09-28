@@ -97,3 +97,23 @@ So tonight's time will be spent on watching videos and reading API docs.
 **Thoughts**  Really got to do some coding.
 
 **Link(s) to work**
+
+
+### Day 4: September 28, 2018
+
+**Today's Progress**: 
+Back on MQTT Service. TOnight exploring listening to subscriptions. Persisting to DB
+
+**Thoughts**  Finally do some coding.
+
+**Link(s) to work**
+
+[Git Repo - MQTT Service](https://github.com/ge-hall/mqtt-service)
+
+### Day 3: September 27, 2018
+
+**Today's Progress**: 
+
+**Thoughts**  Really got to do some coding.
+
+**Link(s) to work**
