@@ -102,9 +102,13 @@ So tonight's time will be spent on watching videos and reading API docs.
 ### Day 4: September 28, 2018
 
 **Today's Progress**: 
-Back on MQTT Service. TOnight exploring listening to subscriptions. Persisting to DB
+Back on MQTT Service. Tonight exploring listening to subscriptions [DONE]. Persisting to DB [TODO].
+switched over to use yarn. 
 
-**Thoughts**  Finally do some coding.
+
+**Thoughts**  
+Finally do some coding.
+I think I am becoming an FB dev fanboy. So many shiny new tools to use.
 
 **Link(s) to work**
 
