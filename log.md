@@ -114,7 +114,17 @@ I think I am becoming an FB dev fanboy. So many shiny new tools to use.
 
 [Git Repo - MQTT Service](https://github.com/ge-hall/mqtt-service)
 
-### Day 3: September 27, 2018
+### Day 5: September 30, 2018
+
+**Today's Progress**: 
+Working on a couple of ideas.
+* add Jest test coverage to MQTT-Service project
+* Setup pipeline type framework like express middleware app.use(func)
+
+**Thoughts**  Happy to be coding. Still some setup and clarification of my ideas but getting there.
+
+**Link(s) to work**
+Git Repo - MQTT Service](https://github.com/ge-hall/mqtt-service)
 
 **Today's Progress**: 
 
